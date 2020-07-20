@@ -1,2 +1,2 @@
 # Hello-world
-My firts repository (idk what I'm doing) 
+My first repository (idk what I'm doing) 
